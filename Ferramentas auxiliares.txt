@@ -1,0 +1,11 @@
+EFEITOS JAVA SCRIPT:
+https://blog.mxcursos.com/20-exemplos-sensacionais-de-efeitos-em-imagens-com-jquery/
+
+EFEITO QUE ACHEI:
+https://tympanus.net/Development/CreativeLinkEffects/#cl-effect-1
+
+ICONS:
+https://www.flaticon.com/
+
+CORRES:
+https://www.materialui.co/flatuicolors
